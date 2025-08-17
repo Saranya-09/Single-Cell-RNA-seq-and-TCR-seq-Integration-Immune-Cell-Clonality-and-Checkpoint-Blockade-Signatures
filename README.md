@@ -1,0 +1,2 @@
+# Single-Cell-RNA-seq-and-TCR-seq-Integration-Immune-Cell-Clonality-and-Checkpoint-Blockade-Signatures
+This project integrates single-cell RNA sequencing (scRNA-seq) and T-cell receptor sequencing (TCR-seq) data to explore how immune cells behave within the tumor microenvironment. By analyzing gene expression profiles together with TCR clonotypes, we uncover insights into immune cell diversity, clonal expansion, and checkpoint blockade mechanisms.
